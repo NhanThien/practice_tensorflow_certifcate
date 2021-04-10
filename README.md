@@ -1,1 +1,1 @@
-# pratice_tensorflow_certifcate
+# practice_tensorflow_certifcate
